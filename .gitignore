@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.vsidx
+*.suo
+*.user
+_ReSharper.*
+*.sdf
+*.opensdf
+*.tlog
+Debug/
+Release/
